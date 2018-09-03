@@ -1,0 +1,60 @@
+#wrapper { 
+background-color: #2C3539;/*gunmetal*/
+margin-left:auto;
+margin-right:auto;
+min-width: 960px;
+width: 70%
+}
+
+header { background-color:#4863A0;/*variation of gold */   
+       color:#333552;/*variation of blue*/
+       font-family: "VT323", monospace;
+	   text-indent: 1em;
+}
+
+body { background-color:#333552;/*variation of blue*/
+       color:#E7CC8E;/*variation of gold*/
+       font-family: "Orbitron", sans-serif;
+	   padding: 5px 0 20px; 
+}
+
+main{ 
+padding: 10px 100px;
+margin-left: 10%;
+background-color: #1E190F; /*brown*/
+	
+}
+
+h1{ 
+margin:0;
+color: #E5E4E2; /*platinum*/
+	text-shadow: 3px 2px 5px #666;	
+	text-align: center;
+	border-color:6px solid #2C3539;/*gunmetal*/
+	padding: 2em;
+	border-radius: 5px;
+	box-shadow: inset 5px 5px 5px #E7CC8E; /*variation of gold*/
+	background-image: linear-gradient(to bottom, #2C3539, #E7CC8E);
+}
+
+h2 { background-color:#2C3539;/*gunmetal*/
+     color:#E5E4E2; /*platinum*/
+     font-family: "VT323", monospace;
+	 text-align: center;
+	 padding: 5px 0 20px; 
+}
+
+p { font-size:.90em;
+    text-indent: 3em; 
+}
+
+footer { font-style: italic;
+         font-size: .75em; 
+}
+
+
+
+
+
+
+
