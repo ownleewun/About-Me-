@@ -39,7 +39,7 @@ success in becoming the #1 insurer for a diverse group of cliental globally.
 </p>
 </article> 
 
-<img src="Me.jpg" alt="Me" height="150" width="150">
+<img src="Me.png" alt="Me" height="150" width="150">
 
 <footer>
   <p>Posted by: Carlos A. Moreno Jr.</p>
